@@ -118,7 +118,7 @@ educational-reviews-imbalance-study/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/educational-reviews-imbalance-study.git
+git clone https://github.com/nagwaelmobark/educational-reviews-imbalance-study.git
 cd educational-reviews-imbalance-study
 ```
 
